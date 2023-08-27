@@ -5,6 +5,7 @@
   - Cedula.
   - Nombres.
   - Apellidos.
+  - Fecha de nacimiento.
   - Matricula.
   - Carrera.
 - Consulta estudiantes por el numero de cedula.
