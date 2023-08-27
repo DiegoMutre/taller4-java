@@ -18,3 +18,6 @@
 - Si se elimina el archivo `estudiantes.txt` mientras el codigo esta en ejecucion, puede haber errores al consultar estudiantes.
 - Todo esta en un solo archivo, el `Main.java`, por lo que hace un poco complicado leer todo ese codigo.
 - **Si existe algun error, notificar por favor :)**
+
+**Cuando los solucionare?**
+No tengo idea.
